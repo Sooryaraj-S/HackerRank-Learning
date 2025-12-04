@@ -11,7 +11,6 @@ Print Hello, World! to stdout.
 Sample Output 0
 Hello, World!
 
-
 Code:
 Char=("Hello, World!")
 print(Char)
